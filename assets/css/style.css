@@ -1,0 +1,4 @@
+:root{--primary:#4f46e5;}
+.btn-primary{background:var(--primary);border-color:var(--primary);}
+.hero{background:linear-gradient(135deg,#6366f1 0%,#4f46e5 100%);color:#fff;padding:6rem 0;}
+.feature-icon{width:4rem;height:4rem;display:flex;align-items:center;justify-content:center;background:#eef2ff;border-radius:.75rem;font-size:1.75rem;color:var(--primary);}
